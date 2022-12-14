@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class primeiraClasse {
 
 	public static void main(String[] args) {
-		// declaração de variaveis
+		// declaração de variaveis 
 		int ano, mes, dia, somadias;
 		// declaração de uso do scanner, para pegar dados de entrada do usuário
 		Scanner entrada = new Scanner(System.in);
